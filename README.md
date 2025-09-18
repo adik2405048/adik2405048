@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center" style="border-bottom: none;">
   Hey there, I'm Ishtiaque Adik
 </h1>
