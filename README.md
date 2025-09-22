@@ -18,7 +18,7 @@ I am an aspiring Agricultural Engineer specializing in Precision Agriculture. I 
 ## GitHub Stat
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adik2405048&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adik2405048&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adik2405048&theme=vue-dark&show_icons" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=adik2405048&theme=dark&card_width=390" alt="GitHub Streak" />
 </p>
 
