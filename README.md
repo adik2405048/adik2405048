@@ -11,7 +11,7 @@ I am an aspiring Agricultural Engineer specializing in Precision Agriculture. I 
 </h3>
 
 ## Tools & Tech
-- **Languages:** Python, C++  
+- **Languages:** HTML, C, C++  
 - **Hardware:** Arduino, Raspberry Pi, Spectroscopy, Embedded Systems
 - **Tools & Frameworks:** OpenCV, AutoCAD, SolidWorks, MATLAB, ArcGIS 
 
