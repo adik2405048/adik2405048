@@ -1,5 +1,7 @@
 <h1 align="center" style="border-bottom: none;">
-  Hey there, I'm Ishtiaque Adik
+  <p align="center">
+  <a href='https://postimg.cc/8jNw9xjt' target='_blank'><img src='https://i.postimg.cc/RVn86B95/Adik.jpg' border='0' alt='Adik'>
+  </a>
 </h1>
 
 <p align="justify">
