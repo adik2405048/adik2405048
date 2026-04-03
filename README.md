@@ -6,8 +6,8 @@
 I am an aspiring Agricultural Engineer specializing in Precision Agriculture. I integrate AI and Automation, Agricultural Robotics, Machine Vision, and IoT to enhance Sustainable Agriculture. Explore the application of IoT & smart sensor technologies to develop data-driven solutions for precision farming. Work with Machine Vision & AI Models for real-time crop monitoring, disease detection, & yield estimation. Engage in the design & testing of Robotic Systems to automate tasks such as planting, harvesting,&  weed management. Conduct academic & project-based research aimed at improving resource efficiency, sustainability, & climate resilience in agriculture
 </p>
 <h3 align="center"> 
-  <a href="https://ishtiaque-adik.lovable.app/" style="text-decoration: none; color: inherit;">My Portfolio</a> • 
-  <a href="https://drive.google.com/file/d/1-cSU7a-NIjran8aVJzsJAAdg_qjjqDVG/view?usp=sharing" style="text-decoration: none; color: inherit;">My CV</a>
+  <a href="https://ishtiaque-adik.netlify.app/" style="text-decoration: none; color: inherit;">My Portfolio</a> • 
+  <a href="https://drive.google.com/file/d/1mkvo2MOJKKiA9ejmIL1Q0mv88OZcvIvK/view?usp=sharing" style="text-decoration: none; color: inherit;">My CV</a>
 </h3>
 
 ## Tools & Tech
