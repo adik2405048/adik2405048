@@ -9,7 +9,8 @@ I am an aspiring Agricultural Engineer specializing in Precision Agriculture. I 
 </p>
 <h3 align="center"> 
   <a href="https://ishtiaque-adik.netlify.app/" style="text-decoration: none; color: inherit;">My Portfolio</a> • 
-  <a href="https://drive.google.com/file/d/1mkvo2MOJKKiA9ejmIL1Q0mv88OZcvIvK/view?usp=sharing" style="text-decoration: none; color: inherit;">My CV</a>
+  <a href="https://drive.google.com/file/d/1spjj1M3OX07zL8XO7kdUq_1MaV-uBHmO/view?usp=sharing" style="text-decoration: none; color: inherit;">My CV</a>
+    <a href="https://www.linkedin.com/in/ishtiaque-adik/" style="text-decoration: none; color: inherit;">My LinkedIN</a>
 </h3>
 
 ## Tools & Tech
